@@ -2,7 +2,7 @@
 
  ## Tabla de Contenido
 ***
-- [Sistema de Gestion (CRUD) Modulos(Facturacion,Cobranzas,Stock)](#Sistema-de-Gestion-(CRUD)-Modulos(Facturacion,-Cobranzas,-Stock)
+- [Sistema de Gestion (CRUD) Modulos (Facturacion,Cobranzas,Stock)](#Sistema-de-Gestion-(CRUD)-Modulos(Facturacion-Cobranzas-Stock)).
   - [Tabla de Contenido](#tabla-de-contenido)
   - [Descripción](#descripción)
 
